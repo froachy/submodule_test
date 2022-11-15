@@ -1,0 +1,3 @@
+[submodule "src/hello_printer"]
+	path = src/hello_printer
+	url = git@github.com:froachy/hello_printer
